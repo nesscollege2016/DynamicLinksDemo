@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1082900860713",
+    "firebase_url": "https://invitesdemo.firebaseio.com",
+    "project_id": "invitesdemo",
+    "storage_bucket": "invitesdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082900860713:android:c5ebc663ea7bbdaf",
+        "android_client_info": {
+          "package_name": "tomerbu.edu.dynamiclinksdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082900860713-rj29bjnb3epc2ma8h2rb2oov2vimut49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomerbu.edu.dynamiclinksdemo",
+            "certificate_hash": "11198345D110CEE92D23376EF1165711277A9126"
+          }
+        },
+        {
+          "client_id": "1082900860713-2kusircd13b75crukdsn466c4lecik9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyrxT_GXBUmHmMgAEbnkc8jDJeXU3WlxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082900860713-2kusircd13b75crukdsn466c4lecik9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
